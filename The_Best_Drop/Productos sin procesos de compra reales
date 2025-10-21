@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <header>
+            <img src="Images/camisa liga.jpg" class="camisa" alt="Images/camisa liga.jpg"/>
+    <p class="card-text">Camisa de la liga 2025.</p>
+       <div class="dropdown">
+  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Dropdown link
+  </a>
+
+  <ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="#">PEQUEÑO</a></li>
+    <li><a class="dropdown-item" href="#">MEDIANO</a></li>
+    <li><a class="dropdown-item" href="#">GRANDE</a></li>
+  </ul>    
+        </header>
+        
+         <header>
+            <img src="Images/camisa liga.jpg" class="camisa" alt="Images/camisa liga.jpg"/>
+    <p class="card-text">Camisa de la liga 2025.</p>
+       <div class="dropdown">
+  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Dropdown link
+  </a>
+
+  <ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="#">PEQUEÑO</a></li>
+    <li><a class="dropdown-item" href="#">MEDIANO</a></li>
+    <li><a class="dropdown-item" href="#">GRANDE</a></li>
+  </ul>    
+        </header>
+        
+         <header>
+            <img src="Images/camisa liga.jpg" class="camisa" alt="Images/camisa liga.jpg"/>
+    <p class="card-text">Camisa de la liga 2025.</p>
+       <div class="dropdown">
+  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Dropdown link
+  </a>
+
+  <ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="#">PEQUEÑO</a></li>
+    <li><a class="dropdown-item" href="#">MEDIANO</a></li>
+    <li><a class="dropdown-item" href="#">GRANDE</a></li>
+  </ul>    
+        </header>
+    </body>
+</html>
